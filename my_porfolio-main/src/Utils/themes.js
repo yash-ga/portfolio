@@ -1,7 +1,8 @@
 export const theme = {
 	dark: {
-		background: '#111825',
-		title: '#CCD6F6',
+		background: '#17305e',
+		// title: '#CCD6F6',
+		title:'#FFFFFF',
 		para: '#8993b1',
 		heading: '#CCD6F6',
 		line: '#24243a',
@@ -14,7 +15,9 @@ export const theme = {
 	},
 	light: {
 		background: '#FFFFFF',
+		// background:'#23175e',
 		title: '#233742',
+		// title:'#FFFFFF',
 		para: '#233742',
 		heading: '#233742',
 		line: 'lightgray',

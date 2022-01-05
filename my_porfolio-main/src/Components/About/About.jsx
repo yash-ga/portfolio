@@ -9,14 +9,15 @@ const About = () => {
 	const img =
 		width < 650
 			? 'https://avatars.githubusercontent.com/u/87422053?v=4' // my Picture
-			: 'https://github.com/himrd95/portfolio/blob/main/public/developer.gif?raw=true';
+			// : 'https://github.com/himrd95/portfolio/blob/main/public/developer.gif?raw=true';
+			:'https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif';
 	return (
 		<div
 			className={styles.container}
 			style={{ boxShadow: `3px 3px 5px ${newTheme.line}` }}
 		>
 			<div className={styles.first}>
-				<img src={"https://github.com/himrd95/portfolio/blob/main/public/developer.gif?raw=true"} alt='' />
+				<img src={"https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"} alt='' />
 			</div>
 			<div className={styles.second}>
 				<h1
