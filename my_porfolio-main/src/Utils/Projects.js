@@ -15,7 +15,7 @@ export const projects = [
 		demo: '',
 		live: ' https://seekho-frontend-vcow10kar.vercel.app/splash',
 		gitHub: 'https://github.com/yash-ga/Unacademy-clone/tree/main/unacademy2.0',
-		technologies: [ 'MondoDB','ExpressJS','ReactJS','NodeJS', 'HTML', 'CSS', 'javaScript'],
+		technologies: [ 'MondoDB','ExpressJS','ReactJS','NodeJS'],
 	},
 	{
 		img: 'https://files.myglamm.com/site-images/original/Offer-of-the-week-Desktop-Multipurpose_1.jpg',
