@@ -11,6 +11,7 @@ const About = () => {
 			? 'https://avatars.githubusercontent.com/u/87422053?v=4' // my Picture
 			// : 'https://github.com/himrd95/portfolio/blob/main/public/developer.gif?raw=true';
 			:'https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif';
+			// anything
 	return (
 		<div
 			className={styles.container}
